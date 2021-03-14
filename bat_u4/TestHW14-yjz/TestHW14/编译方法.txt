@@ -1,0 +1,4 @@
+用cmd在A文件夹运行
+javac -cp .;../uml-homework.jar *.java
+
+然后修改run.sh/test.sh

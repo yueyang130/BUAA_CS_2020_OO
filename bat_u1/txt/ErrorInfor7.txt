@@ -1,0 +1,400 @@
+origin expression : cos(sin((sin(x**+3)+-cos(-1)**1*x**2*cos(x)**2))**+1)**+3*+1
+
+error java diff expression : +3*cos(sin((sin(x**+3)-cos(-1)**1*x**2*cos(x)**2))**+1)**2*-1*sin(sin((sin(x**+3)-cos(-1)**1*x**2*cos(x)**2))**+1)*+1*sin((sin(x**+3)-cos(-1)**1*x**2*cos(x)**2))**0*cos((sin(x**+3)-cos(-1)**1*x**2*cos(x)**2))*+cos(x**+3)*(+3*x**2)-1*cos(-1)**0*-1*sin(-1)*0*x**2*cos(x)**2-cos(-1)**1*(+2*x**1*cos(x)**2+x**2*(+2*cos(x)**1*-1*sin(x)*1))*+1+cos(sin((sin(x**+3)-cos(-1)**1*x**2*cos(x)**2))**+1)**+3*(0)
+
+origin expression : cos(sin((sin(x**+3)+-cos(-1)**1*x**2*cos(x)**2))**+1)**+3*+1
+
+error java diff expression : +3*cos(sin((sin(x**+3)-cos(-1)**1*x**2*cos(x)**2))**+1)**2*-1*sin(sin((sin(x**+3)-cos(-1)**1*x**2*cos(x)**2))**+1)*+1*sin((sin(x**+3)-cos(-1)**1*x**2*cos(x)**2))**0*cos((sin(x**+3)-cos(-1)**1*x**2*cos(x)**2))*+cos(x**+3)*(+3*x**2)-1*cos(-1)**0*-1*sin(-1)*0*x**2*cos(x)**2-cos(-1)**1*(+2*x**1*cos(x)**2+x**2*(+2*cos(x)**1*-1*sin(x)*1))*+1+cos(sin((sin(x**+3)-cos(-1)**1*x**2*cos(x)**2))**+1)**+3*(0)
+
+origin expression : 2-(+-(x*sin(2)**2))*x**+3*(+(-x**3*x**2*x**+3)*x**1++x)
+
+error java diff expression : +0+1*sin(2)**2+x*(+2*sin(2)**1*cos(2)*0)*x**+3*(+(-x**3*x**2*x**+3)*x**1+x)-(-(x*sin(2)**2))*(+3*x**2*(+(-x**3*x**2*x**+3)*x**1+x)+x**+3*(-3*x**2*x**2*x**+3-x**3*(+2*x**1*x**+3+x**2*(+3*x**2))*x**1+(-x**3*x**2*x**+3)*(+1*x**0)+1))
+
+origin expression : 2-(+-(x*sin(2)**2))*x**+3*(+(-x**3*x**2*x**+3)*x**1++x)
+
+error java diff expression : +0+1*sin(2)**2+x*(+2*sin(2)**1*cos(2)*0)*x**+3*(+(-x**3*x**2*x**+3)*x**1+x)-(-(x*sin(2)**2))*(+3*x**2*(+(-x**3*x**2*x**+3)*x**1+x)+x**+3*(-3*x**2*x**2*x**+3-x**3*(+2*x**1*x**+3+x**2*(+3*x**2))*x**1+(-x**3*x**2*x**+3)*(+1*x**0)+1))
+
+origin expression : +2*cos(cos((++sin(2)+x**2*x**+3))**+3)**1
+
+error java diff expression : +0*cos(cos((+sin(2)+x**2*x**+3))**+3)**1+2*(+1*cos(cos((+sin(2)+x**2*x**+3))**+3)**0*-1*sin(cos((+sin(2)+x**2*x**+3))**+3)*+3*cos((+sin(2)+x**2*x**+3))**2*-1*sin((+sin(2)+x**2*x**+3))*+cos(2)*(0)+2*x**1*x**+3+x**2*(+3*x**2))
+
+origin expression : +2*cos(cos((++sin(2)+x**2*x**+3))**+3)**1
+
+error java diff expression : +0*cos(cos((+sin(2)+x**2*x**+3))**+3)**1+2*(+1*cos(cos((+sin(2)+x**2*x**+3))**+3)**0*-1*sin(cos((+sin(2)+x**2*x**+3))**+3)*+3*cos((+sin(2)+x**2*x**+3))**2*-1*sin((+sin(2)+x**2*x**+3))*+cos(2)*(0)+2*x**1*x**+3+x**2*(+3*x**2))
+
+origin expression : 1+(+sin((sin(x**+1)))+x-x)
+
+error java diff expression : +0+cos((sin(x**+1)))*(+cos(x**+1)*(+1*x**0))+1+1
+
+origin expression : 1+(+sin((sin(x**+1)))+x-x)
+
+error java diff expression : +0+cos((sin(x**+1)))*(+cos(x**+1)*(+1*x**0))+1+1
+
+origin expression : +2*sin(cos(sin(x))**+2)*sin(cos((-x*x*x))**2)
+
+error java diff expression : +0*sin(cos(sin(x))**+2)*sin(cos((-x*x*x))**2)+2*(+cos(cos(sin(x))**+2)*(+2*cos(sin(x))**1*-1*sin(sin(x))*+cos(x)*(1))*sin(cos((-x*x*x))**2)+sin(cos(sin(x))**+2)*(+cos(cos((-x*x*x))**2)*(+2*cos((-x*x*x))**1*-1*sin((-x*x*x))*+1*x*x-x*(1*x+x*(1)))))
+
+origin expression : +2*sin(cos(sin(x))**+2)*sin(cos((-x*x*x))**2)
+
+error java diff expression : +0*sin(cos(sin(x))**+2)*sin(cos((-x*x*x))**2)+2*(+cos(cos(sin(x))**+2)*(+2*cos(sin(x))**1*-1*sin(sin(x))*+cos(x)*(1))*sin(cos((-x*x*x))**2)+sin(cos(sin(x))**+2)*(+cos(cos((-x*x*x))**2)*(+2*cos((-x*x*x))**1*-1*sin((-x*x*x))*+1*x*x-x*(1*x+x*(1)))))
+
+origin expression : +(x**+3*(+x+x**2*sin(+1))*x++cos(sin(+2))**+2)
+
+error java diff expression : WRONG FORMAT!
+
+origin expression : -+1*cos((-+x**3-cos(sin(1))**+3*x**+2))**+3
+
+error java diff expression : +0*cos((-x**3-cos(sin(1))**+3*x**+2))**+3-1*(+3*cos((-x**3-cos(sin(1))**+3*x**+2))**2*-1*sin((-x**3-cos(sin(1))**+3*x**+2))*-3*x**2-3*cos(sin(1))**2*-1*sin(sin(1))*+cos(1)*(0)*x**+2-cos(sin(1))**+3*(+2*x**1))
+
+origin expression : -+1*cos((-+x**3-cos(sin(1))**+3*x**+2))**+3
+
+error java diff expression : +0*cos((-x**3-cos(sin(1))**+3*x**+2))**+3-1*(+3*cos((-x**3-cos(sin(1))**+3*x**+2))**2*-1*sin((-x**3-cos(sin(1))**+3*x**+2))*-3*x**2-3*cos(sin(1))**2*-1*sin(sin(1))*+cos(1)*(0)*x**+2-cos(sin(1))**+3*(+2*x**1))
+
+origin expression : --(+sin((x**+3-+cos(x**+3)**+3*cos(2)**1*x-x**1))**+1)
+
+error java diff expression : +1*sin((x**+3-cos(x**+3)**+3*cos(2)**1*x-x**1))**0*cos((x**+3-cos(x**+3)**+3*cos(2)**1*x-x**1))*+3*x**2-3*cos(x**+3)**2*-1*sin(x**+3)*+3*x**2*cos(2)**1*x-cos(x**+3)**+3*(+1*cos(2)**0*-1*sin(2)*0*x+cos(2)**1*(1))-1*x**0
+
+origin expression : --(+sin((x**+3-+cos(x**+3)**+3*cos(2)**1*x-x**1))**+1)
+
+error java diff expression : +1*sin((x**+3-cos(x**+3)**+3*cos(2)**1*x-x**1))**0*cos((x**+3-cos(x**+3)**+3*cos(2)**1*x-x**1))*+3*x**2-3*cos(x**+3)**2*-1*sin(x**+3)*+3*x**2*cos(2)**1*x-cos(x**+3)**+3*(+1*cos(2)**0*-1*sin(2)*0*x+cos(2)**1*(1))-1*x**0
+
+origin expression : -x-sin((+x*cos(sin(+1)**+2)*x+(+cos(+1)*sin(-1)*cos(1))))**1
+
+error java diff expression : +1-1*sin((+x*cos(sin(+1)**+2)*x+(+cos(+1)*sin(-1)*cos(1))))**0*cos((+x*cos(sin(+1)**+2)*x+(+cos(+1)*sin(-1)*cos(1))))*+1*cos(sin(+1)**+2)*x+x*(-1*sin(sin(+1)**+2)*(+2*sin(+1)**1*cos(+1)*0)*x+cos(sin(+1)**+2)*(1))-1*sin(+1)*(0)*sin(-1)*cos(1)+cos(+1)*(+cos(-1)*(0)*cos(1)+sin(-1)*(-1*sin(1)*(0)))
+
+origin expression : -x-sin((+x*cos(sin(+1)**+2)*x+(+cos(+1)*sin(-1)*cos(1))))**1
+
+error java diff expression : +1-1*sin((+x*cos(sin(+1)**+2)*x+(+cos(+1)*sin(-1)*cos(1))))**0*cos((+x*cos(sin(+1)**+2)*x+(+cos(+1)*sin(-1)*cos(1))))*+1*cos(sin(+1)**+2)*x+x*(-1*sin(sin(+1)**+2)*(+2*sin(+1)**1*cos(+1)*0)*x+cos(sin(+1)**+2)*(1))-1*sin(+1)*(0)*sin(-1)*cos(1)+cos(+1)*(+cos(-1)*(0)*cos(1)+sin(-1)*(-1*sin(1)*(0)))
+
+origin expression : -(-x**2+-x**2)*-2
+
+error java diff expression : +2*x**1-2*x**1*-2-(-x**2-x**2)*(0)
+
+origin expression : -(-x**2+-x**2)*-2
+
+error java diff expression : +2*x**1-2*x**1*-2-(-x**2-x**2)*(0)
+
+origin expression : -x*cos(cos((++sin(2)-+cos(x)**2*x**3*x**+2)))
+
+error java diff expression : +1*cos(cos((+sin(2)-cos(x)**2*x**3*x**+2)))-x*(-1*sin(cos((+sin(2)-cos(x)**2*x**3*x**+2)))*(-1*sin((+sin(2)-cos(x)**2*x**3*x**+2))*(+cos(2)*(0)-2*cos(x)**1*-1*sin(x)*1*x**3*x**+2-cos(x)**2*(+3*x**2*x**+2+x**3*(+2*x**1)))))
+
+origin expression : -x*cos(cos((++sin(2)-+cos(x)**2*x**3*x**+2)))
+
+error java diff expression : +1*cos(cos((+sin(2)-cos(x)**2*x**3*x**+2)))-x*(-1*sin(cos((+sin(2)-cos(x)**2*x**3*x**+2)))*(-1*sin((+sin(2)-cos(x)**2*x**3*x**+2))*(+cos(2)*(0)-2*cos(x)**1*-1*sin(x)*1*x**3*x**+2-cos(x)**2*(+3*x**2*x**+2+x**3*(+2*x**1)))))
+
+origin expression : +x*(x*x*(+x**2*cos(1)*sin(+1)**1+-x*cos(x)**2*cos(1)))-2
+
+error java diff expression : +1*(x*x*(+x**2*cos(1)*sin(+1)**1-x*cos(x)**2*cos(1)))+x*(+1*x*(+x**2*cos(1)*sin(+1)**1-x*cos(x)**2*cos(1))+x*(1*(+x**2*cos(1)*sin(+1)**1-x*cos(x)**2*cos(1))+x*(+2*x**1*cos(1)*sin(+1)**1+x**2*(-1*sin(1)*(0)*sin(+1)**1+cos(1)*(+1*sin(+1)**0*cos(+1)*0))+1*cos(x)**2*cos(1)-x*(+2*cos(x)**1*-1*sin(x)*1*cos(1)+cos(x)**2*(-1*sin(1)*(0))))))+0
+
+origin expression : +x*(x*x*(+x**2*cos(1)*sin(+1)**1+-x*cos(x)**2*cos(1)))-2
+
+error java diff expression : +1*(x*x*(+x**2*cos(1)*sin(+1)**1-x*cos(x)**2*cos(1)))+x*(+1*x*(+x**2*cos(1)*sin(+1)**1-x*cos(x)**2*cos(1))+x*(1*(+x**2*cos(1)*sin(+1)**1-x*cos(x)**2*cos(1))+x*(+2*x**1*cos(1)*sin(+1)**1+x**2*(-1*sin(1)*(0)*sin(+1)**1+cos(1)*(+1*sin(+1)**0*cos(+1)*0))+1*cos(x)**2*cos(1)-x*(+2*cos(x)**1*-1*sin(x)*1*cos(1)+cos(x)**2*(-1*sin(1)*(0))))))+0
+
+origin expression : -(-x**+2*cos((+sin(+2)*cos(x**2)**2+-x**2*x**1+x))**+2+x**2)
+
+error java diff expression : +2*x**1*cos((+sin(+2)*cos(x**2)**2-x**2*x**1+x))**+2-x**+2*(+2*cos((+sin(+2)*cos(x**2)**2-x**2*x**1+x))**1*-1*sin((+sin(+2)*cos(x**2)**2-x**2*x**1+x))*+cos(+2)*(0)*cos(x**2)**2+sin(+2)*(+2*cos(x**2)**1*-1*sin(x**2)*+2*x**1)-2*x**1*x**1-x**2*(+1*x**0)+1)+2*x**1
+
+origin expression : -(-x**+2*cos((+sin(+2)*cos(x**2)**2+-x**2*x**1+x))**+2+x**2)
+
+error java diff expression : +2*x**1*cos((+sin(+2)*cos(x**2)**2-x**2*x**1+x))**+2-x**+2*(+2*cos((+sin(+2)*cos(x**2)**2-x**2*x**1+x))**1*-1*sin((+sin(+2)*cos(x**2)**2-x**2*x**1+x))*+cos(+2)*(0)*cos(x**2)**2+sin(+2)*(+2*cos(x**2)**1*-1*sin(x**2)*+2*x**1)-2*x**1*x**1-x**2*(+1*x**0)+1)+2*x**1
+
+origin expression : -sin((-x**+3*x**3*x**+3))**+2*-2*x
+
+error java diff expression : -2*sin((-x**+3*x**3*x**+3))**1*cos((-x**+3*x**3*x**+3))*-3*x**2*x**3*x**+3-x**+3*(+3*x**2*x**+3+x**3*(+3*x**2))*-2*x-sin((-x**+3*x**3*x**+3))**+2*(0*x-2*(1))
+
+origin expression : -sin((-x**+3*x**3*x**+3))**+2*-2*x
+
+error java diff expression : -2*sin((-x**+3*x**3*x**+3))**1*cos((-x**+3*x**3*x**+3))*-3*x**2*x**3*x**+3-x**+3*(+3*x**2*x**+3+x**3*(+3*x**2))*-2*x-sin((-x**+3*x**3*x**+3))**+2*(0*x-2*(1))
+
+origin expression : -(-(-x**3*x**3)*x**2)*x**+1
+
+error java diff expression : -3*x**2*x**3-x**3*(+3*x**2)*x**2-(-x**3*x**3)*(+2*x**1)*x**+1-(-(-x**3*x**3)*x**2)*(+1*x**0)
+
+origin expression : -(-(-x**3*x**3)*x**2)*x**+1
+
+error java diff expression : -3*x**2*x**3-x**3*(+3*x**2)*x**2-(-x**3*x**3)*(+2*x**1)*x**+1-(-(-x**3*x**3)*x**2)*(+1*x**0)
+
+origin expression : +-cos(cos((x--cos(x)+x*sin(1)))**+1)**3*x**+2
+
+error java diff expression : -3*cos(cos((x+cos(x)+x*sin(1)))**+1)**2*-1*sin(cos((x+cos(x)+x*sin(1)))**+1)*+1*cos((x+cos(x)+x*sin(1)))**0*-1*sin((x+cos(x)+x*sin(1)))*+1-1*sin(x)*(1)+1*sin(1)+x*(+cos(1)*(0))*x**+2-cos(cos((x+cos(x)+x*sin(1)))**+1)**3*(+2*x**1)
+
+origin expression : +-cos(cos((x--cos(x)+x*sin(1)))**+1)**3*x**+2
+
+error java diff expression : -3*cos(cos((x+cos(x)+x*sin(1)))**+1)**2*-1*sin(cos((x+cos(x)+x*sin(1)))**+1)*+1*cos((x+cos(x)+x*sin(1)))**0*-1*sin((x+cos(x)+x*sin(1)))*+1-1*sin(x)*(1)+1*sin(1)+x*(+cos(1)*(0))*x**+2-cos(cos((x+cos(x)+x*sin(1)))**+1)**3*(+2*x**1)
+
+origin expression : 2*x*(+x**+1++x**+1)-(+-x**+1-+x*x**+3*x**3)+-x*x
+
+error java diff expression : +0*x*(+x**+1+x**+1)+2*(1*(+x**+1+x**+1)+x*(+1*x**0+1*x**0))+1*x**0+1*x**+3*x**3-x*(+3*x**2*x**3+x**+3*(+3*x**2))+1*x-x*(1)
+
+origin expression : 2*x*(+x**+1++x**+1)-(+-x**+1-+x*x**+3*x**3)+-x*x
+
+error java diff expression : +0*x*(+x**+1+x**+1)+2*(1*(+x**+1+x**+1)+x*(+1*x**0+1*x**0))+1*x**0+1*x**+3*x**3-x*(+3*x**2*x**3+x**+3*(+3*x**2))+1*x-x*(1)
+
+origin expression : cos(cos(sin(-2)**1)**1)*x**+1*(++(+x**+2--sin(1)**3*x)*x*x)
+
+error java diff expression : -1*sin(cos(sin(-2)**1)**1)*(+1*cos(sin(-2)**1)**0*-1*sin(sin(-2)**1)*+1*sin(-2)**0*cos(-2)*0)*x**+1*(+(+x**+2+sin(1)**3*x)*x*x)+cos(cos(sin(-2)**1)**1)*(+1*x**0*(+(+x**+2+sin(1)**3*x)*x*x)+x**+1*(+2*x**1+3*sin(1)**2*cos(1)*0*x+sin(1)**3*(1)*x*x+(+x**+2+sin(1)**3*x)*(1*x+x*(1))))
+
+origin expression : cos(cos(sin(-2)**1)**1)*x**+1*(++(+x**+2--sin(1)**3*x)*x*x)
+
+error java diff expression : -1*sin(cos(sin(-2)**1)**1)*(+1*cos(sin(-2)**1)**0*-1*sin(sin(-2)**1)*+1*sin(-2)**0*cos(-2)*0)*x**+1*(+(+x**+2+sin(1)**3*x)*x*x)+cos(cos(sin(-2)**1)**1)*(+1*x**0*(+(+x**+2+sin(1)**3*x)*x*x)+x**+1*(+2*x**1+3*sin(1)**2*cos(1)*0*x+sin(1)**3*(1)*x*x+(+x**+2+sin(1)**3*x)*(1*x+x*(1))))
+
+origin expression : -x*(x*cos((+-sin(1)**+2*sin(x**3)**3--sin(2)*cos(x**3))))
+
+error java diff expression : +1*(x*cos((-sin(1)**+2*sin(x**3)**3+sin(2)*cos(x**3))))-x*(+1*cos((-sin(1)**+2*sin(x**3)**3+sin(2)*cos(x**3)))+x*(-1*sin((-sin(1)**+2*sin(x**3)**3+sin(2)*cos(x**3)))*(-2*sin(1)**1*cos(1)*0*sin(x**3)**3-sin(1)**+2*(+3*sin(x**3)**2*cos(x**3)*+3*x**2)+cos(2)*(0)*cos(x**3)+sin(2)*(-1*sin(x**3)*(+3*x**2)))))
+
+origin expression : -x*(x*cos((+-sin(1)**+2*sin(x**3)**3--sin(2)*cos(x**3))))
+
+error java diff expression : +1*(x*cos((-sin(1)**+2*sin(x**3)**3+sin(2)*cos(x**3))))-x*(+1*cos((-sin(1)**+2*sin(x**3)**3+sin(2)*cos(x**3)))+x*(-1*sin((-sin(1)**+2*sin(x**3)**3+sin(2)*cos(x**3)))*(-2*sin(1)**1*cos(1)*0*sin(x**3)**3-sin(1)**+2*(+3*sin(x**3)**2*cos(x**3)*+3*x**2)+cos(2)*(0)*cos(x**3)+sin(2)*(-1*sin(x**3)*(+3*x**2)))))
+
+origin expression : +cos(sin(cos(x**1)))**+1*sin(cos(sin(2)**1))**3-x
+
+error java diff expression : +1*cos(sin(cos(x**1)))**0*-1*sin(sin(cos(x**1)))*+cos(cos(x**1))*(-1*sin(x**1)*(+1*x**0))*sin(cos(sin(2)**1))**3+cos(sin(cos(x**1)))**+1*(+3*sin(cos(sin(2)**1))**2*cos(cos(sin(2)**1))*-1*sin(sin(2)**1)*(+1*sin(2)**0*cos(2)*0))+1
+
+origin expression : +cos(sin(cos(x**1)))**+1*sin(cos(sin(2)**1))**3-x
+
+error java diff expression : +1*cos(sin(cos(x**1)))**0*-1*sin(sin(cos(x**1)))*+cos(cos(x**1))*(-1*sin(x**1)*(+1*x**0))*sin(cos(sin(2)**1))**3+cos(sin(cos(x**1)))**+1*(+3*sin(cos(sin(2)**1))**2*cos(cos(sin(2)**1))*-1*sin(sin(2)**1)*(+1*sin(2)**0*cos(2)*0))+1
+
+origin expression : -x*sin(cos((x*sin(2)**2*x))**+2)
+
+error java diff expression : +1*sin(cos((x*sin(2)**2*x))**+2)-x*(+cos(cos((x*sin(2)**2*x))**+2)*(+2*cos((x*sin(2)**2*x))**1*-1*sin((x*sin(2)**2*x))*+1*sin(2)**2*x+x*(+2*sin(2)**1*cos(2)*0*x+sin(2)**2*(1))))
+
+origin expression : -x*sin(cos((x*sin(2)**2*x))**+2)
+
+error java diff expression : +1*sin(cos((x*sin(2)**2*x))**+2)-x*(+cos(cos((x*sin(2)**2*x))**+2)*(+2*cos((x*sin(2)**2*x))**1*-1*sin((x*sin(2)**2*x))*+1*sin(2)**2*x+x*(+2*sin(2)**1*cos(2)*0*x+sin(2)**2*(1))))
+
+origin expression : -(--x-+cos(cos(-1))**1)*x*1
+
+error java diff expression : -1-1*cos(cos(-1))**0*-1*sin(cos(-1))*-1*sin(-1)*(0)*x*1-(+x-cos(cos(-1))**1)*(1*1+x*(0))
+
+origin expression : -(--x-+cos(cos(-1))**1)*x*1
+
+error java diff expression : -1-1*cos(cos(-1))**0*-1*sin(cos(-1))*-1*sin(-1)*(0)*x*1-(+x-cos(cos(-1))**1)*(1*1+x*(0))
+
+origin expression : +cos(sin((-x*sin(2)**+3*x**2)))-+2
+
+error java diff expression : -1*sin(sin((-x*sin(2)**+3*x**2)))*(+cos((-x*sin(2)**+3*x**2))*(+1*sin(2)**+3*x**2-x*(+3*sin(2)**2*cos(2)*0*x**2+sin(2)**+3*(+2*x**1))))+0
+
+origin expression : +cos(sin((-x*sin(2)**+3*x**2)))-+2
+
+error java diff expression : -1*sin(sin((-x*sin(2)**+3*x**2)))*(+cos((-x*sin(2)**+3*x**2))*(+1*sin(2)**+3*x**2-x*(+3*sin(2)**2*cos(2)*0*x**2+sin(2)**+3*(+2*x**1))))+0
+
+origin expression : cos((+-(x*x-sin(x**3)**+1*sin(x)**+2--x**1*cos(x))))**1
+
+error java diff expression : +1*cos((-(x*x-sin(x**3)**+1*sin(x)**+2+x**1*cos(x))))**0*-1*sin((-(x*x-sin(x**3)**+1*sin(x)**+2+x**1*cos(x))))*-1*x+x*(1)-1*sin(x**3)**0*cos(x**3)*+3*x**2*sin(x)**+2-sin(x**3)**+1*(+2*sin(x)**1*cos(x)*1)+1*x**0*cos(x)+x**1*(-1*sin(x)*(1))
+
+origin expression : cos((+-(x*x-sin(x**3)**+1*sin(x)**+2--x**1*cos(x))))**1
+
+error java diff expression : +1*cos((-(x*x-sin(x**3)**+1*sin(x)**+2+x**1*cos(x))))**0*-1*sin((-(x*x-sin(x**3)**+1*sin(x)**+2+x**1*cos(x))))*-1*x+x*(1)-1*sin(x**3)**0*cos(x**3)*+3*x**2*sin(x)**+2-sin(x**3)**+1*(+2*sin(x)**1*cos(x)*1)+1*x**0*cos(x)+x**1*(-1*sin(x)*(1))
+
+origin expression : -(-(+x)*(+x**+3++sin(1)*sin(+2)**2*x**+1++x))
+
+error java diff expression : +1*(+x**+3+sin(1)*sin(+2)**2*x**+1+x)-(+x)*(+3*x**2+cos(1)*(0)*sin(+2)**2*x**+1+sin(1)*(+2*sin(+2)**1*cos(+2)*0*x**+1+sin(+2)**2*(+1*x**0))+1)
+
+origin expression : -(-(+x)*(+x**+3++sin(1)*sin(+2)**2*x**+1++x))
+
+error java diff expression : +1*(+x**+3+sin(1)*sin(+2)**2*x**+1+x)-(+x)*(+3*x**2+cos(1)*(0)*sin(+2)**2*x**+1+sin(1)*(+2*sin(+2)**1*cos(+2)*0*x**+1+sin(+2)**2*(+1*x**0))+1)
+
+origin expression : +(sin((+-x*x*x**+2))*x)++cos(sin(sin(x**+3)**3)**+1)
+
+error java diff expression : WRONG FORMAT!
+
+origin expression : -sin(sin((-cos(-1)*x**1-sin(-1)-+x)))**+2
+
+error java diff expression : -2*sin(sin((-cos(-1)*x**1-sin(-1)-x)))**1*cos(sin((-cos(-1)*x**1-sin(-1)-x)))*+cos((-cos(-1)*x**1-sin(-1)-x))*(+1*sin(-1)*(0)*x**1-cos(-1)*(+1*x**0)-cos(-1)*(0)+1)
+
+origin expression : -sin(sin((-cos(-1)*x**1-sin(-1)-+x)))**+2
+
+error java diff expression : -2*sin(sin((-cos(-1)*x**1-sin(-1)-x)))**1*cos(sin((-cos(-1)*x**1-sin(-1)-x)))*+cos((-cos(-1)*x**1-sin(-1)-x))*(+1*sin(-1)*(0)*x**1-cos(-1)*(+1*x**0)-cos(-1)*(0)+1)
+
+origin expression : +-+2*(-x**+2*x**+2+-x*(cos(1))+-x*x*x**2)
+
+error java diff expression : +0*(-x**+2*x**+2-x*(cos(1))-x*x*x**2)-2*(-2*x**1*x**+2-x**+2*(+2*x**1)+1*(cos(1))-x*(-1*sin(1)*(0))+1*x*x**2-x*(1*x**2+x*(+2*x**1)))
+
+origin expression : +-+2*(-x**+2*x**+2+-x*(cos(1))+-x*x*x**2)
+
+error java diff expression : +0*(-x**+2*x**+2-x*(cos(1))-x*x*x**2)-2*(-2*x**1*x**+2-x**+2*(+2*x**1)+1*(cos(1))-x*(-1*sin(1)*(0))+1*x*x**2-x*(1*x**2+x*(+2*x**1)))
+
+origin expression : +cos(cos((--sin(x**+3)**+2*x**3*x))**2)**3
+
+error java diff expression : +3*cos(cos((+sin(x**+3)**+2*x**3*x))**2)**2*-1*sin(cos((+sin(x**+3)**+2*x**3*x))**2)*+2*cos((+sin(x**+3)**+2*x**3*x))**1*-1*sin((+sin(x**+3)**+2*x**3*x))*+2*sin(x**+3)**1*cos(x**+3)*+3*x**2*x**3*x+sin(x**+3)**+2*(+3*x**2*x+x**3*(1))
+
+origin expression : +cos(cos((--sin(x**+3)**+2*x**3*x))**2)**3
+
+error java diff expression : +3*cos(cos((+sin(x**+3)**+2*x**3*x))**2)**2*-1*sin(cos((+sin(x**+3)**+2*x**3*x))**2)*+2*cos((+sin(x**+3)**+2*x**3*x))**1*-1*sin((+sin(x**+3)**+2*x**3*x))*+2*sin(x**+3)**1*cos(x**+3)*+3*x**2*x**3*x+sin(x**+3)**+2*(+3*x**2*x+x**3*(1))
+
+origin expression : (x-+x**+1*x**3*x**2)*(x)
+
+error java diff expression : +1-1*x**0*x**3*x**2-x**+1*(+3*x**2*x**2+x**3*(+2*x**1))*(x)+(x-x**+1*x**3*x**2)*(+1)
+
+origin expression : (x-+x**+1*x**3*x**2)*(x)
+
+error java diff expression : +1-1*x**0*x**3*x**2-x**+1*(+3*x**2*x**2+x**3*(+2*x**1))*(x)+(x-x**+1*x**3*x**2)*(+1)
+
+origin expression : +(x**1++x++sin(cos(x**1)**+3)**2)*x++2*x**+1
+
+error java diff expression : +1*x**0+1+2*sin(cos(x**1)**+3)**1*cos(cos(x**1)**+3)*+3*cos(x**1)**2*-1*sin(x**1)*+1*x**0*x+(x**1+x+sin(cos(x**1)**+3)**2)*(1)+0*x**+1+2*(+1*x**0)
+
+origin expression : +(x**1++x++sin(cos(x**1)**+3)**2)*x++2*x**+1
+
+error java diff expression : +1*x**0+1+2*sin(cos(x**1)**+3)**1*cos(cos(x**1)**+3)*+3*cos(x**1)**2*-1*sin(x**1)*+1*x**0*x+(x**1+x+sin(cos(x**1)**+3)**2)*(1)+0*x**+1+2*(+1*x**0)
+
+origin expression : +(--x+x**+3*x++x)*x
+
+error java diff expression : +1+3*x**2*x+x**+3*(1)+1*x+(+x+x**+3*x+x)*(1)
+
+origin expression : +(--x+x**+3*x++x)*x
+
+error java diff expression : +1+3*x**2*x+x**+3*(1)+1*x+(+x+x**+3*x+x)*(1)
+
+origin expression : sin((-(+x**+3--sin(2)-cos(2)**+3*sin(x)**+1*x)*x**1))**+1
+
+error java diff expression : +1*sin((-(+x**+3+sin(2)-cos(2)**+3*sin(x)**+1*x)*x**1))**0*cos((-(+x**+3+sin(2)-cos(2)**+3*sin(x)**+1*x)*x**1))*-3*x**2+cos(2)*(0)-3*cos(2)**2*-1*sin(2)*0*sin(x)**+1*x-cos(2)**+3*(+1*sin(x)**0*cos(x)*1*x+sin(x)**+1*(1))*x**1-(+x**+3+sin(2)-cos(2)**+3*sin(x)**+1*x)*(+1*x**0)
+
+origin expression : sin((-(+x**+3--sin(2)-cos(2)**+3*sin(x)**+1*x)*x**1))**+1
+
+error java diff expression : +1*sin((-(+x**+3+sin(2)-cos(2)**+3*sin(x)**+1*x)*x**1))**0*cos((-(+x**+3+sin(2)-cos(2)**+3*sin(x)**+1*x)*x**1))*-3*x**2+cos(2)*(0)-3*cos(2)**2*-1*sin(2)*0*sin(x)**+1*x-cos(2)**+3*(+1*sin(x)**0*cos(x)*1*x+sin(x)**+1*(1))*x**1-(+x**+3+sin(2)-cos(2)**+3*sin(x)**+1*x)*(+1*x**0)
+
+origin expression : -sin((+(+x*x**+3*cos(x)**+2+x-x*cos(+2)*x**+2)))-x**+3+-2
+
+error java diff expression : -cos((+(+x*x**+3*cos(x)**+2+x-x*cos(+2)*x**+2)))*(+1*x**+3*cos(x)**+2+x*(+3*x**2*cos(x)**+2+x**+3*(+2*cos(x)**1*-1*sin(x)*1))+1+1*cos(+2)*x**+2-x*(-1*sin(+2)*(0)*x**+2+cos(+2)*(+2*x**1)))-3*x**2+0
+
+origin expression : -sin((+(+x*x**+3*cos(x)**+2+x-x*cos(+2)*x**+2)))-x**+3+-2
+
+error java diff expression : -cos((+(+x*x**+3*cos(x)**+2+x-x*cos(+2)*x**+2)))*(+1*x**+3*cos(x)**+2+x*(+3*x**2*cos(x)**+2+x**+3*(+2*cos(x)**1*-1*sin(x)*1))+1+1*cos(+2)*x**+2-x*(-1*sin(+2)*(0)*x**+2+cos(+2)*(+2*x**1)))-3*x**2+0
+
+origin expression : +-(-cos(sin(1)))*sin((+x--sin(cos(1))))**+3
+
+error java diff expression : WRONG FORMAT!
+
+origin expression : -x*-2++x**1*(--sin(cos(2))*sin(sin(-2)**+1))
+
+error java diff expression : +1*-2-x*(0)+1*x**0*(+sin(cos(2))*sin(sin(-2)**+1))+x**1*(+cos(cos(2))*(-1*sin(2)*(0))*sin(sin(-2)**+1)+sin(cos(2))*(+cos(sin(-2)**+1)*(+1*sin(-2)**0*cos(-2)*0)))
+
+origin expression : -x*-2++x**1*(--sin(cos(2))*sin(sin(-2)**+1))
+
+error java diff expression : +1*-2-x*(0)+1*x**0*(+sin(cos(2))*sin(sin(-2)**+1))+x**1*(+cos(cos(2))*(-1*sin(2)*(0))*sin(sin(-2)**+1)+sin(cos(2))*(+cos(sin(-2)**+1)*(+1*sin(-2)**0*cos(-2)*0)))
+
+origin expression : sin(sin((cos(x**+1)**3*x**+2*x))**+1)
+
+error java diff expression : +cos(sin((cos(x**+1)**3*x**+2*x))**+1)*(+1*sin((cos(x**+1)**3*x**+2*x))**0*cos((cos(x**+1)**3*x**+2*x))*+3*cos(x**+1)**2*-1*sin(x**+1)*+1*x**0*x**+2*x+cos(x**+1)**3*(+2*x**1*x+x**+2*(1)))
+
+origin expression : sin(sin((cos(x**+1)**3*x**+2*x))**+1)
+
+error java diff expression : +cos(sin((cos(x**+1)**3*x**+2*x))**+1)*(+1*sin((cos(x**+1)**3*x**+2*x))**0*cos((cos(x**+1)**3*x**+2*x))*+3*cos(x**+1)**2*-1*sin(x**+1)*+1*x**0*x**+2*x+cos(x**+1)**3*(+2*x**1*x+x**+2*(1)))
+
+origin expression : -(-+x**1*cos(sin(1)**2)**2++x**+1)
+
+error java diff expression : +1*x**0*cos(sin(1)**2)**2-x**1*(+2*cos(sin(1)**2)**1*-1*sin(sin(1)**2)*+2*sin(1)**1*cos(1)*0)+1*x**0
+
+origin expression : -(-+x**1*cos(sin(1)**2)**2++x**+1)
+
+error java diff expression : +1*x**0*cos(sin(1)**2)**2-x**1*(+2*cos(sin(1)**2)**1*-1*sin(sin(1)**2)*+2*sin(1)**1*cos(1)*0)+1*x**0
+
+origin expression : -(+x**+1*x**+1*x**1+x**2*(--x**+1*x))*(x**+3*x*x++x*x)
+
+error java diff expression : -1*x**0*x**+1*x**1+x**+1*(+1*x**0*x**1+x**+1*(+1*x**0))+2*x**1*(+x**+1*x)+x**2*(+1*x**0*x+x**+1*(1))*(x**+3*x*x+x*x)-(+x**+1*x**+1*x**1+x**2*(+x**+1*x))*(+3*x**2*x*x+x**+3*(1*x+x*(1))+1*x+x*(1))
+
+origin expression : -(+x**+1*x**+1*x**1+x**2*(--x**+1*x))*(x**+3*x*x++x*x)
+
+error java diff expression : -1*x**0*x**+1*x**1+x**+1*(+1*x**0*x**1+x**+1*(+1*x**0))+2*x**1*(+x**+1*x)+x**2*(+1*x**0*x+x**+1*(1))*(x**+3*x*x+x*x)-(+x**+1*x**+1*x**1+x**2*(+x**+1*x))*(+3*x**2*x*x+x**+3*(1*x+x*(1))+1*x+x*(1))
+
+origin expression : ++sin(cos(cos(x**2)**3))*(--(+x*cos(2)*x))*x**+2
+
+error java diff expression : +cos(cos(cos(x**2)**3))*(-1*sin(cos(x**2)**3)*(+3*cos(x**2)**2*-1*sin(x**2)*+2*x**1))*(+(+x*cos(2)*x))*x**+2+sin(cos(cos(x**2)**3))*(+1*cos(2)*x+x*(-1*sin(2)*(0)*x+cos(2)*(1))*x**+2+(+(+x*cos(2)*x))*(+2*x**1))
+
+origin expression : ++sin(cos(cos(x**2)**3))*(--(+x*cos(2)*x))*x**+2
+
+error java diff expression : +cos(cos(cos(x**2)**3))*(-1*sin(cos(x**2)**3)*(+3*cos(x**2)**2*-1*sin(x**2)*+2*x**1))*(+(+x*cos(2)*x))*x**+2+sin(cos(cos(x**2)**3))*(+1*cos(2)*x+x*(-1*sin(2)*(0)*x+cos(2)*(1))*x**+2+(+(+x*cos(2)*x))*(+2*x**1))
+
+origin expression : ++1+(+x*x-x*cos(sin(x)**3))
+
+error java diff expression : +0+1*x+x*(1)+1*cos(sin(x)**3)-x*(-1*sin(sin(x)**3)*(+3*sin(x)**2*cos(x)*1))
+
+origin expression : ++1+(+x*x-x*cos(sin(x)**3))
+
+error java diff expression : +0+1*x+x*(1)+1*cos(sin(x)**3)-x*(-1*sin(sin(x)**3)*(+3*sin(x)**2*cos(x)*1))
+
+origin expression : +sin(sin((++x**2-x*x*x)))**3*sin(sin(cos(x**+3)))**1
+
+error java diff expression : +3*sin(sin((+x**2-x*x*x)))**2*cos(sin((+x**2-x*x*x)))*+cos((+x**2-x*x*x))*(+2*x**1+1*x*x-x*(1*x+x*(1)))*sin(sin(cos(x**+3)))**1+sin(sin((+x**2-x*x*x)))**3*(+1*sin(sin(cos(x**+3)))**0*cos(sin(cos(x**+3)))*+cos(cos(x**+3))*(-1*sin(x**+3)*(+3*x**2)))
+
+origin expression : +sin(sin((++x**2-x*x*x)))**3*sin(sin(cos(x**+3)))**1
+
+error java diff expression : +3*sin(sin((+x**2-x*x*x)))**2*cos(sin((+x**2-x*x*x)))*+cos((+x**2-x*x*x))*(+2*x**1+1*x*x-x*(1*x+x*(1)))*sin(sin(cos(x**+3)))**1+sin(sin((+x**2-x*x*x)))**3*(+1*sin(sin(cos(x**+3)))**0*cos(sin(cos(x**+3)))*+cos(cos(x**+3))*(-1*sin(x**+3)*(+3*x**2)))
+
+origin expression : -+sin((+x*(+sin(+2)*x**+1-x**1*x)))**+2
+
+error java diff expression : -2*sin((+x*(+sin(+2)*x**+1-x**1*x)))**1*cos((+x*(+sin(+2)*x**+1-x**1*x)))*+1*(+sin(+2)*x**+1-x**1*x)+x*(+cos(+2)*(0)*x**+1+sin(+2)*(+1*x**0)-1*x**0*x-x**1*(1))
+
+origin expression : -+sin((+x*(+sin(+2)*x**+1-x**1*x)))**+2
+
+error java diff expression : -2*sin((+x*(+sin(+2)*x**+1-x**1*x)))**1*cos((+x*(+sin(+2)*x**+1-x**1*x)))*+1*(+sin(+2)*x**+1-x**1*x)+x*(+cos(+2)*(0)*x**+1+sin(+2)*(+1*x**0)-1*x**0*x-x**1*(1))
+
+origin expression : -+cos(cos((+-x+x**+1*x*x**+2))**2)**3-+2
+
+error java diff expression : -3*cos(cos((-x+x**+1*x*x**+2))**2)**2*-1*sin(cos((-x+x**+1*x*x**+2))**2)*+2*cos((-x+x**+1*x*x**+2))**1*-1*sin((-x+x**+1*x*x**+2))*+1+1*x**0*x*x**+2+x**+1*(1*x**+2+x*(+2*x**1))+0
+
+origin expression : -+cos(cos((+-x+x**+1*x*x**+2))**2)**3-+2
+
+error java diff expression : -3*cos(cos((-x+x**+1*x*x**+2))**2)**2*-1*sin(cos((-x+x**+1*x*x**+2))**2)*+2*cos((-x+x**+1*x*x**+2))**1*-1*sin((-x+x**+1*x*x**+2))*+1+1*x**0*x*x**+2+x**+1*(1*x**+2+x*(+2*x**1))+0
+
+origin expression : -cos((--x*(x**+1)--cos(cos(x**1))*x))*2*+1
+
+error java diff expression : WRONG FORMAT!
+
+origin expression : (+x*cos((x*sin(x)*x-x))**3)
+
+error java diff expression : +1*cos((x*sin(x)*x-x))**3+x*(+3*cos((x*sin(x)*x-x))**2*-1*sin((x*sin(x)*x-x))*+1*sin(x)*x+x*(+cos(x)*(1)*x+sin(x)*(1))+1)
+
+origin expression : (+x*cos((x*sin(x)*x-x))**3)
+
+error java diff expression : +1*cos((x*sin(x)*x-x))**3+x*(+3*cos((x*sin(x)*x-x))**2*-1*sin((x*sin(x)*x-x))*+1*sin(x)*x+x*(+cos(x)*(1)*x+sin(x)*(1))+1)
+
+origin expression : (sin((-cos(x**1)**1))*sin(cos(x**2))*cos(sin(x))+-x*x)
+
+error java diff expression : +cos((-cos(x**1)**1))*(-1*cos(x**1)**0*-1*sin(x**1)*+1*x**0)*sin(cos(x**2))*cos(sin(x))+sin((-cos(x**1)**1))*(+cos(cos(x**2))*(-1*sin(x**2)*(+2*x**1))*cos(sin(x))+sin(cos(x**2))*(-1*sin(sin(x))*(+cos(x)*(1))))+1*x-x*(1)
+
+origin expression : (sin((-cos(x**1)**1))*sin(cos(x**2))*cos(sin(x))+-x*x)
+
+error java diff expression : +cos((-cos(x**1)**1))*(-1*cos(x**1)**0*-1*sin(x**1)*+1*x**0)*sin(cos(x**2))*cos(sin(x))+sin((-cos(x**1)**1))*(+cos(cos(x**2))*(-1*sin(x**2)*(+2*x**1))*cos(sin(x))+sin(cos(x**2))*(-1*sin(sin(x))*(+cos(x)*(1))))+1*x-x*(1)
+
+origin expression : --sin((--(sin(+2)**3-cos(-2)*x**+3*cos(1))*x**+1))**+1*x
+
+error java diff expression : +1*sin((+(sin(+2)**3-cos(-2)*x**+3*cos(1))*x**+1))**0*cos((+(sin(+2)**3-cos(-2)*x**+3*cos(1))*x**+1))*+3*sin(+2)**2*cos(+2)*0+1*sin(-2)*(0)*x**+3*cos(1)-cos(-2)*(+3*x**2*cos(1)+x**+3*(-1*sin(1)*(0)))*x**+1+(sin(+2)**3-cos(-2)*x**+3*cos(1))*(+1*x**0)*x+sin((+(sin(+2)**3-cos(-2)*x**+3*cos(1))*x**+1))**+1*(1)
+
+origin expression : --sin((--(sin(+2)**3-cos(-2)*x**+3*cos(1))*x**+1))**+1*x
+
+error java diff expression : +1*sin((+(sin(+2)**3-cos(-2)*x**+3*cos(1))*x**+1))**0*cos((+(sin(+2)**3-cos(-2)*x**+3*cos(1))*x**+1))*+3*sin(+2)**2*cos(+2)*0+1*sin(-2)*(0)*x**+3*cos(1)-cos(-2)*(+3*x**2*cos(1)+x**+3*(-1*sin(1)*(0)))*x**+1+(sin(+2)**3-cos(-2)*x**+3*cos(1))*(+1*x**0)*x+sin((+(sin(+2)**3-cos(-2)*x**+3*cos(1))*x**+1))**+1*(1)
+
+origin expression : +cos((-x*x**3-x))**3*x**2
+
+error java diff expression : +3*cos((-x*x**3-x))**2*-1*sin((-x*x**3-x))*+1*x**3-x*(+3*x**2)+1*x**2+cos((-x*x**3-x))**3*(+2*x**1)
+
+origin expression : +cos((-x*x**3-x))**3*x**2
+
+error java diff expression : +3*cos((-x*x**3-x))**2*-1*sin((-x*x**3-x))*+1*x**3-x*(+3*x**2)+1*x**2+cos((-x*x**3-x))**3*(+2*x**1)
+
+origin expression : -x*sin(cos((-+x**2))**+2)+-x**3
+
+error java diff expression : +1*sin(cos((-x**2))**+2)-x*(+cos(cos((-x**2))**+2)*(+2*cos((-x**2))**1*-1*sin((-x**2))*-2*x**1))-3*x**2
+
+origin expression : -x*sin(cos((-+x**2))**+2)+-x**3
+
+error java diff expression : +1*sin(cos((-x**2))**+2)-x*(+cos(cos((-x**2))**+2)*(+2*cos((-x**2))**1*-1*sin((-x**2))*-2*x**1))-3*x**2
+
+origin expression : 1+sin((x**1*sin((-x))**+3*(x**+3)+x))+-x**+2*x**+2
+
+error java diff expression : +0+cos((x**1*sin((-x))**+3*(x**+3)+x))*(+1*x**0*sin((-x))**+3*(x**+3)+x**1*(+3*sin((-x))**2*cos((-x))*+1*(x**+3)+sin((-x))**+3*(+3*x**2))+1)-2*x**1*x**+2-x**+2*(+2*x**1)
+
+origin expression : 1+sin((x**1*sin((-x))**+3*(x**+3)+x))+-x**+2*x**+2
+
+error java diff expression : +0+cos((x**1*sin((-x))**+3*(x**+3)+x))*(+1*x**0*sin((-x))**+3*(x**+3)+x**1*(+3*sin((-x))**2*cos((-x))*+1*(x**+3)+sin((-x))**+3*(+3*x**2))+1)-2*x**1*x**+2-x**+2*(+2*x**1)
+
+origin expression : +sin(sin((x*x*cos(+1)-x**+1))**2)**+1
+
+error java diff expression : +1*sin(sin((x*x*cos(+1)-x**+1))**2)**0*cos(sin((x*x*cos(+1)-x**+1))**2)*+2*sin((x*x*cos(+1)-x**+1))**1*cos((x*x*cos(+1)-x**+1))*+1*x*cos(+1)+x*(1*cos(+1)+x*(-1*sin(+1)*(0)))-1*x**0
+
+origin expression : +sin(sin((x*x*cos(+1)-x**+1))**2)**+1
+
+error java diff expression : +1*sin(sin((x*x*cos(+1)-x**+1))**2)**0*cos(sin((x*x*cos(+1)-x**+1))**2)*+2*sin((x*x*cos(+1)-x**+1))**1*cos((x*x*cos(+1)-x**+1))*+1*x*cos(+1)+x*(1*cos(+1)+x*(-1*sin(+1)*(0)))-1*x**0
+

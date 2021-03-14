@@ -1,0 +1,397 @@
+ap id(int) name(String) character(BigInterger) age(int)
+ar id(int) id(int) value(int)
+qv id(int) id(int)
+query_conflict id(int), id(int)
+query_acquaintance_sum id(int)
+ca id(int) id(int)
+cn id(int) id(int)
+qnr id(int)
+qps
+qci id(int) id(int)
+
+
+sum:
+ap 1 a 1 100
+ap 2 aa 1 100
+ap 5 c 1 100
+ap 6 D 1 100
+ap 7 e 1 100
+ap 8 f 1 100
+ap 3 aaa 1 100
+ap 4 b 1 100
+qps
+ap 11 f 1 100
+ap 13 aaa 1 100
+ap 12 b 1 100
+ap 8 adsd 112342 100
+qps
+
+ca:
+ap 1 a 1 100
+ap 7 e 1 18
+ap -45 e 1 1000
+ca 1 7
+ca 7 1
+ca 1 -45
+ca -45 1
+ca 7 -45
+ca -45 7
+ca 1 0
+ca 45 100
+
+ar 1 2 10
+ar 6 2 10
+ar 8 2 10
+
+cn:
+
+ap 1 a 1 100
+ap 2 aa 1 100
+ap 5 c 1 100
+ap 6 D 1 100
+ap 7 e 1 100
+ap 8 f 1 100
+ap 3 aaa 1 100
+ap 4 b 1 100
+cn 1 2
+cn 2 1
+cn 2 6
+cn 6 2
+cn 6 0
+cn 0 6
+
+rank：
+qnr 1
+qnr 2
+qnr 3
+qnr 4
+qnr 5
+qnr 6
+qnr 7
+qnr 8
+
+
+ar 3 4 10
+ar 5 4 100
+ar 5 7 1000
+
+ar 5 -1 1000
+ar 4 5 1000
+ar 4 4 1000
+
+qv 5 4
+qv 4 5
+qv 7 0
+
+qgps:
+ap 1 a 8 100
+ap 2 aa -6 100
+ag 0
+atg 1 0
+atg 2 0
+qgps 0
+ap 3 aaa -2 1
+atg 3 0
+qgps 0
+dfg 3 0
+qgps 0
+dfg 1 0
+qgps 0
+
+qgrs:
+case1:
+ap 1 a 8 100
+ap 2 aa -6 100
+ag 0
+atg 1 0
+atg 2 0
+ar 1 2 100
+qgrs 0
+qgvs 0
+dfg 1 0
+qgrs 0
+qgvs 0
+
+case2:
+ap 1 a 8 100
+ap 2 aa -6 100
+ag 0
+atg 1 0
+atg 2 0
+dfg 1 0
+qgrs 0
+qgvs 0
+ar 1 2 100
+qgrs 0
+qgvs 0
+
+
+
+conflict:
+ap 1 a 8 100
+ap 2 aa -6 100
+ag 0
+atg 1 0
+atg 2 0
+qgcs 0
+ap 3 aaa -2 1
+atg 3 0
+qgcs 0
+dfg 3 0
+qgcs 0
+dfg 1 0
+qgcs 0
+
+var:
+ap 1 a 8 1
+ag 0
+atg 1 0
+qgam 0
+qgav 0
+dfg 1 0
+qgam 0
+qgav 0
+
+
+ap 1 a 8 1
+ap 2 aa -6 10
+ag 0
+atg 1 0
+atg 2 0
+qgam 0
+qgav 0
+ap 3 aaa 234 7
+atg 3 0
+qgam 0
+qgav 0
+ap 10 aaaa 231 7
+atg 10 0
+qgam 0
+qgav 0
+dfg 10 0
+qgam 0
+qgav 0
+dfg 1 0
+qgam 0
+qgav 0
+
+iscirlce:
+ap 1 a 1 100
+ap 2 aa 1 100
+ap 5 c 1 100
+ap 6 D 1 100
+ap 7 e 1 100
+ap 8 f 1 100
+ap 3 aaa 1 100
+ap 4 b 1 100
+ap 9 b 1 100
+ap 10 b 1 100
+ap 11 b 1 100
+
+ar 3 4 10
+ar 5 4 100
+ar 5 3 100
+ar 5 6 1000
+ar 2 4 1000
+ar 1 3 1000
+
+ar 9 7 100
+ar 7 8 1000
+ar 11 8 1000
+
+qci 1 2
+qci 6 1
+qci 2 6
+qci 6 2
+qci 3 4
+
+qci 11 9
+qci 9 11
+qci 9 8
+qci 8 9
+qci 9 7
+qci 7 11
+
+qci 1 7
+qci 9 2
+qci 11 6
+qci 4 8
+qci 6 9
+
+
+qci 10 1 
+qci 10 2
+qci 10 6
+qci 10 7
+qci 10 8
+qci 10 11
+
+qci 10 10
+
+rs && vs:
+ag 0
+ag 1
+qgrs 0
+qgvs 0
+
+atg 1 0
+qgrs 0
+qgvs 0
+atg 4 0
+qgrs 0
+qgvs 0
+atg 3 0
+qgrs 0
+qgvs 0
+
+ar 1 4 20
+qgrs 0
+qgvs 0
+
+strong link:
+
+case1:
+ap 1 a 1 100
+ap 2 aa 1 100
+ar 1 2 10
+qsl 1 2
+ap 3 a 1 100
+ar 1 3 10
+ar 2 3 10
+qsl 1 2
+
+case2:
+ap 1 a 1 100
+ap 2 aa 1 100
+ap 3 aaa 1 100
+ap 4 f 1 100
+ap 5 c 1 100
+ap 6 D 1 100
+ar 1 2 10
+ar 2 3 10
+ar 3 6 20
+ar 1 4 10
+ar 4 5 10
+qsl 1 6
+ar 5 6 10
+qsl 1 6
+ar 2 5 10
+qsl 1 6
+ar 4 3 10
+qsl 1 6
+
+case 3:
+ap 1 a 1 100
+ap 2 aa 1 100
+ap 3 aaa 1 100
+ap 4 f 1 100
+ar 1 2 10
+ar 2 3 10
+ar 3 4 20
+ar 1 4 10
+qsl 1 2 
+qsl 4 1
+qsl 1 3
+qsl 2 3
+qsl 4 2
+
+case4:
+ap 1 a 1 100
+ap 2 aa 1 100
+ap 3 aaa 1 100
+ap 4 f 1 100
+ap 5 f 1 100
+ar 1 2 10
+ar 1 3 10
+ar 2 3 10
+ar 2 4 20
+ar 2 5 10
+ar 4 5 10
+qsl 1 2 
+qsl 3 4
+qsl 1 4
+qsl 5 1
+qsl 5 3
+
+case4:
+ap 1 a 1 100
+ap 2 aa 1 100
+qsl 1 2 
+
+queryBlock:
+case1:
+qbs
+ap 1 a 1 100
+qbs
+ap 1 a 1 100
+ap 2 aa 1 100
+ap 3 aaa 1 100
+ap 4 f 1 100
+qbs
+ar 1 2 10
+qbs
+ar 2 3 10
+qbs
+ar 2 4 10
+qbs
+ar 1 4 10
+qbs
+
+
+queryMinPath:
+
+case1:
+ap 1 a 1 100
+ap 2 aa 1 100
+ap 3 aaa 1 100
+ap 4 f 1 100
+ap 5 c 1 100
+ap 6 D 1 100
+ar 1 2 4
+ar 1 3 7
+ar 1 4 3
+ar 2 3 3
+ar 2 5 2
+ar 4 5 3
+ar 3 6 2
+ar 5 6 2
+qmp 1 1
+qmp 2 1
+qmp 1 3
+qmp 4 1
+qmp 5 1
+qmp 1 6
+
+case2:
+ap 1 a 1 100
+ap 2 aa 1 100
+ap 3 aaa 1 100
+ap 4 aaa 1 100
+ap 5 aaa 1 100
+ar 1 2 10
+ar 2 4 25
+ar 1 3 20
+ar 4 3 30
+qmp 1 4
+
+borrow and queryMoney:
+ap 1 a 1 100
+ap 2 aa 1 100
+bf 1 2 1000
+qm 1
+qm 2
+bf 1 3 100
+qm 1
+qm 3
+
+ageSum:
+ap 1 a 1 1
+ap 2 aa 1 10
+ap 3 aaa 1 20
+ap 4 f 1 100
+qasu 1 100 
+qasu 0 1000 
+qasu 11 20
+ap 5 c 1 1000
+ap 6 D 1 10000
+qasu 0 10000

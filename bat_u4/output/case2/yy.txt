@@ -1,0 +1,1 @@
+Failed when check R001, "null" in "class0" has duplicate name.

@@ -1,0 +1,18 @@
+{"_parent":"7duypzt9","visibility":"public","name": null,"_type":"UMLAttribute","_id":"vtl3dwjc","type":"float"}
+{"_parent":"5h3r460o","name":"returnValue0","_type":"UMLParameter","_id":"rthaol3e", "type":"bool","direction":"return"}
+{"reference":"7duypzt9","multiplicity":"","_parent":"0fat6lvd", "visibility":"protected","name":"attr544","_type":"UMLAssociationEnd" ,"aggregation":"none","_id":"otj57dem"}
+{"_parent":"","visibility":"public","name":"interf0","_type" :"UMLInterface","_id":"7duypzt9"}
+{"_parent":"1lok6jwz","visibility":"protected","name": "attr19","_type":"UMLAttribute","_id":"w94752r6","type":"Object"}
+{"reference":"1lok6jwz","multiplicity":"","_parent":"cw84673s", "visibility":"private","name":"attr477","_type":"UMLAssociationEnd" ,"aggregation":"none","_id":"pwc1uzya"}
+{"_parent":"","visibility":"public","name":"class0","_type" :"UMLClass","_id":"1lok6jwz"}
+{"_parent":"5h3r460o","name":"param0","_type":"UMLParameter","_id":"rn526a0f", "type":"float","direction":"in"}
+{"reference":"7duypzt9","multiplicity":"","_parent":"0fat6lvd", "visibility":"private","name":null,"_type":"UMLAssociationEnd" ,"aggregation":"none","_id":"ih586b0x"}
+{"_parent":"","name":"","_type": "UMLAssociation","end2":"ih586b0x","end1":"otj57dem","_id":"0fat6lvd"}
+{"_parent":"o6xqtm3u","name":"returnValue0","_type":"UMLParameter","_id":"46o05mkl", "type":"float","direction":"return"}
+{"_parent":"1lok6jwz","visibility":"package","name":"op3" ,"_type":"UMLOperation","_id":"5h3r460o"}
+{"_parent":"1lok6jwz","visibility":"protected","name": "attr211","_type":"UMLAttribute","_id":"kqtpvd14","type":"int"}
+{"_parent":"","name":"","_type": "UMLAssociation","end2":"pwc1uzya","end1":"g51vyoj6","_id":"cw84673s"}
+{"reference":"1lok6jwz","multiplicity":"","_parent":"cw84673s", "visibility":"package","name":"attr530","_type":"UMLAssociationEnd" ,"aggregation":"none","_id":"g51vyoj6"}
+{"_parent":"7duypzt9","visibility":"public","name": "attr29","_type":"UMLAttribute","_id":"678dpz9v","type":"int"}
+{"_parent":"1lok6jwz","visibility":"protected","name":"op3" ,"_type":"UMLOperation","_id":"o6xqtm3u"}
+END_OF_MODEL

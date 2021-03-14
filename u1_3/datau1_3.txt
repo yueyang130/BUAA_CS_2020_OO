@@ -1,0 +1,76 @@
+sin(cos(cos((x**2+sin(cos(sin(sin((x**2*cos(x))))))))))**3  len=58
+sin[x] WF
+
+u1_3 m2:
+cos(cos(x)**-2)
+cos(cos(cos(x)))
+cos(cos(cos(cos(x))))
+
+指导书：
+1
+- -4*x + x ** 2+ x
+sin((2 * x)) *(cos(x)+1)
+sin ( x )
+1113**50 WF
+sin(2*x) WF
+
+sin(cos(x))
+sin((x+cos(x)))
+sin(x**2)
++ + + 1 WF
++ + +1 
+sin(x)
+sin((cos(x)))
+sin((2*x))+sin(x)+(2*x)*x
+sin((2*x))+sin(x)+sin(2*x)+(2*x)*x  WF
+
+sin(x)**cos(x) WF 
+sin(sin(2*x))  WF
+sin(sin(x)) + sin(x)*cos(x)
+sin(sin(x)+cos(x))  WF
+(((((((((((((((((((((((((((((x)))))))))))))))))))))))))))))
+(((((((((((((((x))))))))))))))
+
+(2*x)**2 WF
+sin(((x+2)**2+sin(x)))   WF 
+sin(((x+2)**2+sin(x)))*cos(x**2)   WF
+
+sin(((x+2)*x+sin(x)))*cos(x**2) 
+sin((x+x**8+sin(x)+cos(x)))
+sin(x ** 2) * cos(sin(x)) ** 2 * x ** 2
+sin ( cos ( (x + sin(x) ) )) + sin(x)	
+
+x ** 2 * x ** 1  + x ** 2 + cos(x) *cos(x) -- sin(x) * cos(x)
+
+index:
+WF:
+x**-51  
+sin(x) ** -51
+cos(x) ** -51
+sin((x+(sin(x**51))))
+sin ( cos ( (x + sin(x)**51 ) )) + sin(x)
+TF:
+x**-49 * x**-2
+sin(x)**-49 * sin(x)**-2
+cos(x)**-49 * cos(x)**-2
+
+simplify:
+x*x*sin(x)+3*x*x*cos(sin(x))
+sin((sin((x*x*x+x*x*x))+x*x**2))
+cos((sin((x*x*x+x*x*x))+x*x**2))
+sin(cos((x*x*x+x*x*x)))
+sin(sin((x*x*x+x*x*x)))
+cos(sin((x*x*x+x*x*x)))
+cos(cos((x*x*x+x*x*x)))
+1*x**0*sin(x)
+1
+-1
+x**0
+1*x**0
+-1*x**0
+1*x**0*sin(x)
+-1*x**0*sin(x)
+
+--cos((-sin(sin(1)**+1)**1))**+1
++sin(-4)  **+1	
+-1*cos((3*1+sin(3)))

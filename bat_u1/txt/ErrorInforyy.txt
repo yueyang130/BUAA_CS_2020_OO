@@ -1,0 +1,8 @@
+origin expression : +-cos(sin((x**+1*x-x**1*x))**-1)+-+1
+
+error java diff expression : -1*sin(sin((x*x-x*x))**-1)*sin((x*x-x*x))**-2*cos((x*x-x*x))*(2*x-2*x)
+
+origin expression : ---1*sin(sin((-x**1--x))**-1)
+
+error java diff expression : 1*cos(sin((x-x))**-1)*sin((x-x))**-2*cos((x-x))*(1-1)
+

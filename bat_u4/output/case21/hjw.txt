@@ -1,0 +1,1 @@
+Failed when check R006, All attributes and operations of interface must be public.

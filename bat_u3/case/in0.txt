@@ -1,0 +1,150 @@
+ap -16 w6qpg 1245 1776
+ag 0
+qbs
+ar -16 -16 764
+qbs
+ar -16 -16 347
+qsl -16 -16
+qsl -16 -16
+ap -2 a542c 3918 1022
+atg -2 0
+qasu 476 653
+qmp -16 -2
+atg -2 0
+qmp -2 -2
+ar -2 -16 883
+qbs
+atg -2 0
+qasu 391 326
+qgs
+qsl -2 -2
+qmp -16 -2
+ar -2 -2 983
+qgcs 0
+bf -2 -2 71
+ar -2 -2 231
+ag 2
+qgrs 0
+ap -10 y9mrh 5710 1833
+qbs
+qgrs 2
+qgam 0
+qmp -10 -10
+ap -15 b9fk5 4580 1501
+ap -11 shj79 1288 539
+dfg -16 0
+qsl -11 -10
+qgav 0
+qsl -16 -15
+qbs
+ar -2 -15 552
+qm -16
+qgs
+qsl -11 -2
+qgcs 2
+qmp -16 -16
+ap -18 gj65d 2744 1305
+qbs
+qsl -10 -10
+qbs
+qasu 31 1764
+qsl -15 -11
+qsl -18 -15
+qsl -11 -15
+ag -2
+qgs
+qmp -10 -18
+qsl -16 -11
+qmp -10 -18
+qmp -10 -16
+qsl -10 -16
+qsl -15 -18
+ag 5
+qgam 0
+qgrs 5
+qmp -11 -10
+qgav -2
+qgs
+bf -2 -16 70
+qmp -11 -18
+qsl -11 -2
+dfg -10 5
+qsl -15 -18
+ar -11 -10 829
+qmp -2 -18
+ap -5 er7iy 5028 1579
+dfg -11 0
+ap 5 31soy 6472 1802
+qsl -10 -5
+qsl -18 -10
+qgvs 5
+qsl -10 -15
+qsl -5 -11
+bf -15 -10 -73
+qbs
+atg -16 5
+ap -19 y67ex 1688 306
+qmp -18 -5
+qmp -11 -18
+qmp -16 -5
+dfg 5 -2
+ap -13 3drle 5309 1454
+qbs
+qbs
+qgav 0
+qgvs 5
+qasu 280 646
+qbs
+qsl -15 -19
+ap 20 zmgvy 732 1936
+qmp 5 -2
+ar 20 -13 500
+ap -3 pzjrs 764 486
+qmp -15 -2
+qbs
+qsl -18 -10
+qgvs -2
+dfg -16 5
+ar -19 -10 313
+qbs
+qsl -16 -10
+ar -19 20 188
+qsl -2 -19
+ar -19 -2 751
+ar 20 -16 806
+ar -16 -18 452
+qsl 5 -5
+qbs
+qsl 20 -3
+qmp -13 5
+ap 12 qlk94 6559 741
+qgcs 0
+qbs
+qbs
+atg -10 0
+qbs
+qmp -10 -2
+qbs
+ar -11 12 336
+qgvs 2
+ap -12 qkwp1 3510 71
+ap -17 hq5of 6491 120
+qm 12
+qbs
+qmp -19 -12
+qgav 2
+qci -17 -2
+qsl -19 -16
+ap -6 oepx6 6638 1242
+ag 3
+ar -17 -15 720
+qgs
+qmp -6 -6
+qgvs 5
+ap 13 wxdro 324 1609
+qsl -19 -13
+qasu 1818 1648
+qm -13
+ap 14 brf5d 4306 1441
+qmp -18 -11
+ap 17 6enc1 6224 818

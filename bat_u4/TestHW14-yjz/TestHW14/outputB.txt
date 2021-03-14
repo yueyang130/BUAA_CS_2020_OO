@@ -1,0 +1,1 @@
+Failed when check R004, class/interface (Kywh, Lnmd, Thgr, Vcudt, Wtrcp, Yxbu, Zbqzfz, Zbqzfz) have duplicate realizations.

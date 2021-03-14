@@ -1,0 +1,17 @@
+{"_parent":"2prd3jxa","name":"param0","_type":"UMLParameter","_id":"mo01qsw9", "type":"Object","direction":"in"}
+{"reference":"9p2ntm6s","multiplicity":"","_parent":"08ykwtz9", "visibility":"package","name":"attr15","_type":"UMLAssociationEnd" ,"aggregation":"none","_id":"opljfmi8"}
+{"reference":"9p2ntm6s","multiplicity":"","_parent":"0tobw2p8", "visibility":"private","name":null,"_type":"UMLAssociationEnd" ,"aggregation":"none","_id":"wsxu68op"}
+{"_parent":"m26soy83","visibility":"public","name": "attr455","_type":"UMLAttribute","_id":"hx26r905","type":"Object"}
+{"_parent":"","visibility":"private","name":"class0","_type" :"UMLClass","_id":"9p2ntm6s"}
+{"_parent":"9p2ntm6s","visibility":"package","name": "attr136","_type":"UMLAttribute","_id":"cipqwr4f","type":"bool"}
+{"_parent":"9p2ntm6s","visibility":"private","name":null ,"_type":"UMLOperation","_id":"4iy0hqz2"}
+{"_parent":"4iy0hqz2","name":"returnValue0","_type":"UMLParameter","_id":"6cufompb", "type":"int","direction":"return"}
+{"reference":"m26soy83","multiplicity":"","_parent":"08ykwtz9", "visibility":"package","name":"attr576","_type":"UMLAssociationEnd" ,"aggregation":"none","_id":"m2fc1ghx"}
+{"reference":"9p2ntm6s","multiplicity":"","_parent":"0tobw2p8", "visibility":"protected","name":null,"_type":"UMLAssociationEnd" ,"aggregation":"none","_id":"6he6ydxq"}
+{"_parent":"","name":"","_type": "UMLAssociation","end2":"opljfmi8","end1":"m2fc1ghx","_id":"08ykwtz9"}
+{"_parent":"m26soy83","visibility":"public","name": "attr486","_type":"UMLAttribute","_id":"bd4xsmhi","type":"float"}
+{"_parent":"9p2ntm6s","visibility":"public","name": "attr158","_type":"UMLAttribute","_id":"96ajk1nz","type":"bool"}
+{"_parent":"","visibility":"private","name":"interf0","_type" :"UMLInterface","_id":"m26soy83"}
+{"_parent":"9p2ntm6s","visibility":"package","name":null ,"_type":"UMLOperation","_id":"2prd3jxa"}
+{"_parent":"","name":"","_type": "UMLAssociation","end2":"6he6ydxq","end1":"wsxu68op","_id":"0tobw2p8"}
+END_OF_MODEL

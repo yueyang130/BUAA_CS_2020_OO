@@ -1,0 +1,150 @@
+ap 19 6akny 2267 918
+ap 10 gv4ix 138 75
+ap 36 yjiq3 6515 1978
+ap 2 5i647 721 811
+ap -15 5zpj0 4930 794
+ag 5
+qbs
+qsl 36 2
+qbs
+qbs
+bf 36 10 71
+qm -15
+qmp 2 2
+qsl 36 -15
+ap -14 yom6k 4208 704
+qsl 36 10
+qmp 36 36
+qsl -14 -14
+qmp 10 10
+ap 1 5os69 5933 105
+ag -3
+ap 62 2j6w7 898 1127
+qbs
+qbs
+qbs
+qmp 62 19
+qmp -15 62
+qsl 10 62
+dfg 2 -3
+atg 2 -3
+ap -11 m9khy 6640 1754
+qci -15 2
+ap 0 i4138 2479 645
+ap 25 gynjf 5306 902
+ap 30 wzgn0 5816 308
+qm 19
+ap -10 4ot3j 3566 1729
+ar 25 2 690
+dfg 2 -3
+qbs
+qsl 62 1
+qsl -11 -15
+qsl 62 36
+qmp 19 62
+qbs
+ar -11 -15 779
+qbs
+qsl 19 0
+qsl 10 -11
+ap 95 6svy7 6083 1300
+qgam 5
+qgs
+qmp -11 62
+qbs
+atg 30 5
+qm 10
+qsl 30 10
+qbs
+ap 23 x149j 2368 398
+qsl -15 -14
+dfg 2 5
+qasu 946 35
+qsl 30 23
+qbs
+ap 106 sz1a0 5852 1589
+qbs
+qmp 36 23
+ag 2
+qgcs 5
+qmp 95 -10
+ap 15 grpbk 4504 912
+qbs
+ap -35 yqtw0 3181 40
+ar 62 0 610
+qsl 36 -15
+ap 22 5vtah 3985 1672
+qmp 2 -35
+ap -2 6s1xf 4512 77
+qsl 0 19
+qgam 2
+ap -5 32hsy 3514 629
+qbs
+ap -16 ka9vq 2410 1315
+qbs
+ap -4 bcduk 3912 1898
+ar 30 -11 178
+dfg 95 5
+ap 103 gy46c 3009 1242
+qsl 0 -10
+qsl -4 -10
+qmp -4 2
+ap 83 zsqek 6191 1559
+qsl 36 103
+qbs
+qmp 36 -16
+qmp 36 10
+ap -28 66kho 4625 1190
+ap -32 mviop 4220 126
+bf 22 83 12
+qsl -11 36
+ap -86 9qagm 5622 1418
+ap 14 fgmdu 6221 704
+qbs
+ap -81 wn0xh 6393 1746
+ap -13 icoxh 3630 610
+ap -43 xt4ub 1409 468
+qsl -5 10
+ap -6 lan6q 684 1407
+ap 117 aze2f 460 1614
+qsl 30 -13
+ag 4
+qgps -3
+dfg 106 5
+ap -69 en845 6526 383
+ap 32 6j56f 2896 299
+qsl 10 -86
+bf -11 -5 99
+qsl 23 83
+qsl 95 25
+qmp -15 83
+ar 95 -28 105
+ap 29 26l70 5866 1251
+ap 9 lkcjs 2550 710
+qsl 36 -15
+qbs
+ap 60 v8yk4 1028 217
+qbs
+ap 8 ho1u3 4326 147
+ap 7 kdbv6 347 106
+qsl -43 29
+qm -6
+qci 36 83
+ap -22 kun7j 4664 1836
+qsl 25 -11
+ar 32 36 324
+qmp 32 36
+qsl -35 62
+qsl -2 83
+qsl -22 -81
+ap -1 t0amk 4182 679
+qsl 23 -35
+qsl -43 10
+ap -34 qxtm6 610 1523
+ap 42 qxob4 3030 785
+qsl 95 -35
+qgps -3
+ap -23 5oavz 4935 826
+ap -72 mdjea 1860 983
+qgcs 2
+qmp 36 -5
